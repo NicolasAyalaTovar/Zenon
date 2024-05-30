@@ -1,0 +1,15 @@
+Yes/No questions: These questions can be identified because they begin with an auxiliary such as "do," "does," "is," "are," etc. The short answer to these questions is with "yes" or "no", followed by the subject and auxiliary. Example:
+ Question: **Does she like chocolate?
+ Answer: **Yes, she does./ No, she doesn't.
+Wh-questions (what, where, when, why, who, which, how): These questions require specific information and are not simply answered with "yes" or "no". The answer must include the information requested. Example:
+Question: Where are you from?
+Answer: I am from Spain.
+Questions with "How much/How many": These are used to ask about quantities. "How much" is used with uncountable nouns and "How many" with countable ones. Answers must specify the quantity. Example:
+Question: How many apples are there?
+Answer: There are four apples.
+Past questions with "did": To answer questions about past actions that use "did", the main verb must be changed to its base form, without "did" in the answer. Example:
+Question: Did you see the movie?
+Answer: Yes, I saw the movie / No, I didn't see it.
+Questions with "Have/Has" (Present Perfect): These questions often inquire about experiences or actions completed in an unspecified time before the present. They are answered with "have" or "has". Example:
+Question: Have you ever been to France?
+Answer: Yes, I have been to France / No, I haven't been to France.
