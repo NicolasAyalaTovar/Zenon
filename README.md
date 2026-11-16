@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-GPT--2-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 Zenon, llamado así por Zenón de Citio, fundador del estoicismo, ajusta GPT-2 con un corpus de citas estoicas y ofrece una interfaz de escritorio para conversar con el modelo.
 
@@ -65,6 +66,10 @@ GPT-2 es un modelo pequeño y el corpus tiene unas pocas centenas de citas. Las 
 - Ampliar el corpus con obras completas (*Meditaciones*, *Cartas a Lucilio*, *Enquiridión*).
 - Recuperación de citas relevantes (RAG) para respuestas más fundamentadas.
 - Interfaz web con Gradio o Streamlit.
+
+## 📄 Licencia
+
+Distribuido bajo la licencia MIT. Consulta [`LICENSE`](LICENSE) para más información.
 
 ## 👤 Autor
 
